@@ -123,3 +123,12 @@ section h2{
     color:black;
 }
 
+/* Search */
+.search-section input{
+    width: 300px;
+    padding: 12px;
+    border-radius: 8px;
+    border:none;
+    gap: 25px;
+    padding-top: 30px;
+}
