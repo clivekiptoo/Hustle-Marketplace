@@ -115,6 +115,7 @@ section h2{
     background: rgba(255,255,255,0.15);
     padding: 20px 35px;
     border-radius: 12px;
+    backdrop-filter: blur(5px);
     transition: 0.3s;
 }
 
