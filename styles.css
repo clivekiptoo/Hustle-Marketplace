@@ -72,3 +72,17 @@ body::before{
     margin-bottom:30px;
 }
 
+
+/* Button */
+.btn,
+button{
+    background: orange;
+    color: black;
+    padding: 12px 25px;
+    border:none;
+    border-radius: 7px;
+    text-decoration: none;
+    font-weight: bold;
+    cursor:pointer;
+    transition: 0.3s;
+}
