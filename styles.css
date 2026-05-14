@@ -34,3 +34,7 @@ body::before{
     background: rgba(0,0,0,0.6);
 }
 
+.navbar h1{
+    color: orange;
+    font-size: 30px;
+}
