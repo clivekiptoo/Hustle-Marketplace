@@ -56,3 +56,10 @@ body::before{
     color: orange;
 }
 
+/* Hero */
+.hero{
+    text-align: center;
+    padding: 150px 20 px;
+}
+
+
