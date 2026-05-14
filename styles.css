@@ -111,3 +111,15 @@ section h2{
     gap: 20px;
 }
 
+.category-box div{
+    background: rgba(255,255,255,0.15);
+    padding: 20px 35px;
+    border-radius: 12px;
+    transition: 0.3s;
+}
+
+.category-box div:hover{
+    background: orange;
+    color:black;
+}
+
