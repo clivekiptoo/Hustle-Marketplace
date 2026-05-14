@@ -154,3 +154,12 @@ section h2{
 .card:hover{
     transform: translateY(-10px);
 }
+
+.card h3{
+    color:orange;
+    margin-bottom: 15px;
+}
+
+.card p{
+    margin-bottom: 10px;
+}
