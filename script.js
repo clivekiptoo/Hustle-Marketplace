@@ -38,6 +38,7 @@ if(form){
 
         if(confirmPost){
             alert("Your hustle has been posted seccessfully");
+            form.reset();
         }
     })
 }
