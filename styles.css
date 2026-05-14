@@ -215,3 +215,8 @@ footer{
         align-items: center;
     }
 }
+
+.light-mode{
+    background: white;
+    color: black;
+}
