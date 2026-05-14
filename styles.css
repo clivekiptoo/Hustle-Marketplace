@@ -62,4 +62,13 @@ body::before{
     padding: 150px 20 px;
 }
 
+.hero h2{
+    font-size: 55px;
+    margin-bottom: 20px;
+}
+
+.hero p{
+    font-size: 22px;
+    margin-bottom:30px;
+}
 
