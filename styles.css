@@ -45,3 +45,14 @@ body::before{
     gap: 25px;
 }
 
+.navbar a{
+    color:white;
+    text-decoration: none;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+.navbar a:hover{
+    color: orange;
+}
+
