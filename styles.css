@@ -86,3 +86,8 @@ button{
     cursor:pointer;
     transition: 0.3s;
 }
+
+.btn:hover,
+button:hover{
+    transform: scale(1.05);
+}
