@@ -25,3 +25,15 @@ if (searchInput) {
         });
     });
 }
+
+
+// Post hustle form
+const form = document.querySelector("form");
+
+if(form){
+    form.addEventListener("submit", function(e){
+        e.preventDefault();
+        
+        let confirmPost = confirm("Do you want to post this hustle");
+    })
+}
