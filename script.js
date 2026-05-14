@@ -35,5 +35,9 @@ if(form){
         e.preventDefault();
         
         let confirmPost = confirm("Do you want to post this hustle");
+
+        if(confirmPost){
+            alert("Your hustle has been posted seccessfully");
+        }
     })
 }
